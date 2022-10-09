@@ -1,0 +1,56 @@
+.search
+{
+    background-color: #772360 !important;
+}
+.sort
+{
+    float: right;
+}
+button
+{
+    color: #772360 !important;
+}
+.card-text3
+{
+    width:75px;
+    font-size: small;
+}
+.card-text4
+{
+    width:75px;
+    font-size: small;
+}
+.card-text5
+{
+    width:75px;
+    font-size: small;
+}
+
+.card-text7
+{
+    font-size: small;
+} 
+.rec
+{
+    background-color: white !important;
+    height: 120px;
+    width:140px !important;
+    position: relative;
+}
+.text-over-img
+{
+    position: absolute;
+    bottom:10px;
+    left:20px;
+    z-index: 2;
+    font-size:smaller;
+    
+}
+.rectangle
+{
+    position: absolute;
+    bottom: 340px;
+    right: 120px;
+    
+
+}
